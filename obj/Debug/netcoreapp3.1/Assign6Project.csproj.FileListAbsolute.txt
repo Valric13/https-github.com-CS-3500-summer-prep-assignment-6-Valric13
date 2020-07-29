@@ -1,0 +1,12 @@
+/Users/gx196387/Projects/Assign6Project/Assign6Project/bin/Debug/netcoreapp3.1/Assign6Project.deps.json
+/Users/gx196387/Projects/Assign6Project/Assign6Project/bin/Debug/netcoreapp3.1/Assign6Project.runtimeconfig.json
+/Users/gx196387/Projects/Assign6Project/Assign6Project/bin/Debug/netcoreapp3.1/Assign6Project.runtimeconfig.dev.json
+/Users/gx196387/Projects/Assign6Project/Assign6Project/bin/Debug/netcoreapp3.1/Assign6Project.dll
+/Users/gx196387/Projects/Assign6Project/Assign6Project/bin/Debug/netcoreapp3.1/Assign6Project.pdb
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.csprojAssemblyReference.cache
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.AssemblyInfoInputs.cache
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.AssemblyInfo.cs
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.csproj.CoreCompileInputs.cache
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.dll
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.pdb
+/Users/gx196387/Projects/Assign6Project/Assign6Project/obj/Debug/netcoreapp3.1/Assign6Project.genruntimeconfig.cache
