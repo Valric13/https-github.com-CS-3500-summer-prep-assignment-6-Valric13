@@ -15,36 +15,7 @@ namespace Assign6Project
     {
         static void Main(string[] args)
         {
-            Console.Clear();
-            Console.WriteLine(Evaluate(" 1 + 3 * 4 - ( 2 + 5 )"));
-            Console.WriteLine(Evaluate("( 53 + 62 / 35 )"));
-            Console.WriteLine(Evaluate("3 + 4 * 2"));
-            Console.WriteLine(Evaluate("( 25 - 11 ) * 3"));
-            Console.WriteLine(Evaluate("3 + 6 * ( 5 + 4 ) / 3 - 7"));
-            Console.WriteLine(Evaluate("9 - 5 / ( 8 - 3 ) * 2 + 6"));
-            Console.WriteLine(Evaluate("150 / ( 6 + 3 * 8 ) - 5"));
-            Console.WriteLine(Evaluate("2 * ( 3 + 4 ) - 6"));
-            Console.WriteLine(Evaluate("9 % 2"));
-            Console.WriteLine(Evaluate("9 / 2"));
-            Console.WriteLine(Evaluate("( 4 + 5 ) * 3 - 7"));
-            Console.WriteLine(Evaluate("1 + 2 - 3 + 4 - 5"));
-            Console.WriteLine(Evaluate("1 * 2 * 3 / 2 / 3"));
-            Console.WriteLine(Evaluate("1 + 2 * 3 - 4 / 2"));
-            Console.WriteLine(Evaluate("1 * 2 + 3 - 4 / 5"));
-            Console.WriteLine(Evaluate("1 + 2 * 4 % 3 + 4"));
-            Console.WriteLine(Evaluate("( 1 + 2 ) * 3 - 4 / 2"));
-            Console.WriteLine(Evaluate("5 * ( 4 + 3 ) - 2 / 1"));
-            Console.WriteLine(Evaluate("( ( 1 + 2 ) * 3 - 4 ) / 2"));
-            Console.WriteLine(Evaluate("( 5 + 4 % 3 - 2 ) / 2"));
-            Console.WriteLine(Evaluate("1 + 2 * 4 / ( 2 + 2 )"));
-            Console.WriteLine(Evaluate("1 + 2 * 3 - 4"));
-            Console.WriteLine(Evaluate("2 + 3 * 1 - 9"));
-            Console.WriteLine(Evaluate("10 + 2 * 8 - 3"));
-            Console.WriteLine(Evaluate("5 * ( 4 + 6 ) * ( 4 + 9 / 3 )"));
-            Console.WriteLine(Evaluate("1 ^ ( 2 ^ ( 3 ^ 4 ) )"));
-            Console.WriteLine(Evaluate("4 ^ ( 3 ^ 2 )"));
-            Console.WriteLine(Evaluate("500 / ( 30 / 4 )"));
-            Console.Read();
+       
         }
 
         /// <summary>
